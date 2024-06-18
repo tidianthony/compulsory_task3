@@ -1,5 +1,3 @@
-git checkout -b refactor-calculate-sum
-
 # utils.py
 
 def calculate_sum(a, b):
@@ -20,4 +18,3 @@ def calculate_sum(a, b):
     # Sum calculation
     return a + b
 
-git add utils.py
